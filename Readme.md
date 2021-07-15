@@ -4,6 +4,9 @@ since heroku is an external service and will not be on a trusted network.
 
 sends a message to telegram
 
+## Pre-requisites
+* python >= 3.6.0
+
 1. env.example
 ```
 bot_token       = 'telegram bot token'

@@ -1,2 +1,6 @@
 .env
 env
+allowed_ports
+server_list
+ssh
+saved_list
